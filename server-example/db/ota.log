@@ -1,0 +1,4 @@
+{"id":"ota-random-81","url":"https://192.168.1.44","toVersion":"0.0.3","status":"IN_PROGRESS","from":"server"}
+{"version":"0.0.3","status":"SUCCEEDED","ts":1710736812,"from":"client","id":"ota-random-81"}
+{"id":"ota-random-8","url":"https://192.168.1.44","toVersion":"0.0.2","status":"IN_PROGRESS","from":"server"}
+{"version":"0.0.2","status":"SUCCEEDED","ts":1710745309,"from":"client","id":"ota-random-8"}
