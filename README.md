@@ -48,7 +48,7 @@ console输出：
   ➜  Network: http://192.168.1.44:5173/
 ```
 局域网移动端打开页面：
-<img src="./assets/picture/react-首页.jpg" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/f138d31c79e64598a9f426b338c766bc.jpeg#pic_center" style="width: 250px"/>
 
 ### 运行mqtt设备端模拟器
 
@@ -93,8 +93,8 @@ publishing~~, 原文:b'{"t":1710745731}', 密文:2450f80603555cb68338592bacd66df
 收到数据, topic:/topic/data, 原文:2450f80603555cb68338592bacd66df5, 解密后：{"t":1710745731}
 ```
 ###### 4. 页面
-<img src="./assets/picture/react-心跳包.jpg" style="width: 250px"/>
-<img src="./assets/picture/react-历史数据.jpg" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/453e72fcbb3948f8a4947a5deeca6c41.jpeg#pic_center" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/f836bf39280c4056a8a0a7cbd2b6be54.jpeg#pic_center" style="width: 250px"/>
 
 ##### 三. GET /ota/updates
 查看设备历史OTA记录，包含服务端下发的数据及设备端上报的结果
@@ -115,7 +115,7 @@ OTA succeeded, publish message...
 ```
 
 ###### 3.页面
-<img src="./assets/picture/react-查看OTA.jpg" style="width: 250px"/>
-<img src="./assets/picture/react-创建OTA.jpg" style="width: 250px"/>
-<img src="./assets/picture/react-创建作业成功.jpg" style="width: 250px"/>
-<img src="./assets/picture/react-OTA执行结果.jpg" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/2e17511b16a74883945ecd6bcf9900b9.jpeg#pic_center" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/a2fe1c0f59844068beedb3b9de3aa22d.jpeg#pic_center" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/a2fe1c0f59844068beedb3b9de3aa22d.jpeg#pic_center" style="width: 250px"/>
+<img src="https://img-blog.csdnimg.cn/direct/ed0a42b49cf04a44aa293d394dc2ee6e.jpeg#pic_center" style="width: 250px"/>
