@@ -1,6 +1,6 @@
 ## 介绍
 
-mqtt demo应用，实现mqtt的通讯数据加密传输和OTA的流程实现，项目分为四个部分，分别为mqtt-server-example,mqtt-client-example,express后端服务和vite+react前端应用
+mqtt demo应用，实现mqtt的通讯数据加密传输和OTA的流程实现，项目分为四个部分，分别为mqtt-server-example,mqtt-client-example,express后端服务和vite+react前端应用。
 
 ## 运行
 
